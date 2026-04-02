@@ -9,13 +9,13 @@
 ---
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://Aarshini09.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00F7FF">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="antrapriyadarshini9@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
   </a>
 </p>
@@ -86,8 +86,8 @@
   <a href="antrapriyadarshini9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
   </a>
 </p>
 
