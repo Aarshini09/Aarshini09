@@ -41,17 +41,19 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarshini09&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarshini09&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Antra's GitHub Stats" width="400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshini09&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
-</div>
 ---
-📬 Contact Me
+
+### 📬 Contact Me
 <p align="left">
   <a href="mailto:antrapriyadarshini09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -63,5 +65,5 @@
 
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=footer" />
 </p>
