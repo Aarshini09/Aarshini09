@@ -1,9 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Here,+I'm+Antra+Priyadarshini+👋;App+and+Web+Developer+💻;Hackathon+Enthusiast+🚀;Entrepreneurial+Mindset+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there,+Here+I'm+Antra+Priyadarshini+👋;I'm+an+App+%26+Web+Developer;Hackathon+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
 </p>
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/antra-priyadarshini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:antrapriyadarshini09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/Aarshini09?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
 
+---
 ### 💫 About Me
 - 👩‍💻 **Developer:** Building real-world impactful applications.
 - 🏆 **Hackathons:** Active participant, focused on solving complex problems.
@@ -31,13 +42,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarshini09&show_icons=true&theme=tokyonight&rank_icon=github" alt="Antra's GitHub stats" />
-</p>
+
 
 ---
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarshini09&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="400" />
+</p>
+
+</div>
+---
 ### 📬 Contact Me
 <p align="left">
   <a href="mailto:antrapriyadarshini09@gmail.com">
