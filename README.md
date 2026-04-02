@@ -1,98 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=250&section=header&text=Antra%20Priyadarshini&fontSize=42&fontColor=00F7FF&animation=fadeIn&stroke=00F7FF" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=App+Developer;Frontend+Enthusiast;Hackathon+Enthusiast;Building+Real+World+Projects" />
-</h1>
+# Hi there, I'm Antra Priyadarshini 👋
+### App & Web Developer | Hackathon Enthusiast | Problem Solver
 
 ---
 
-<p align="center">
-  <a href="https://Aarshini09.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00F7FF">
-  </a>
-  <a href="antrapriyadarshini9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF">
-  </a>
-  <a href="https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
-  </a>
-</p>
+### 💫 About Me:
+- 🚀 I’m currently building **real-world impactful apps**.
+- 💡 Focused on solving complex problems with clean code.
+- 🏁 Love participating in **Hackathons** and collaborating on innovative ideas.
+- 📚 Constantly learning and improving my tech stack.
 
 ---
 
-## 🌌 About Me
-
-- 💻 App & Web Developer  
-- ⚡ Hackathon Enthusiast  
-- 🚀 Building real-world impactful apps  
-- 🎯 Focused on problem solving  
-- 🌱 Constantly learning & improving  
-
----
-
-## ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma&theme=dark" />
-</p>
-
-<p align="center">
-  HTML • CSS • JavaScript • React • Python • Figma
-</p>
+### 🛠 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-- 🌊 **FloodGuard + Kisan** – Disaster alert & farmer support platform  
-- 🎓 **Campus Genie** – Student utility & productivity app  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
+### 🚀 Featured Projects:
+* **🌊 FloodGuard + Kisan** – Disaster alert & farmer support platform.
+* **🎓 Campus Genie** – Student utility & productivity app.
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarshini09&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshini09&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎥 Project Previews
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x200/000000/00F7FF?text=FloodGuard+Kisan+Demo" />
-  <img src="https://via.placeholder.com/400x200/000000/00F7FF?text=Campus+Genie+Demo" />
-</p>
+### 🐍 Contribution Snake:
+![Snake animation](https://github.com/Aarshini09/Aarshini09/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Contact Me
-
-<p align="center">
-  <a href="antrapriyadarshini9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF">
-  </a>
-  <a href="https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
-  </a>
-</p>
-
----
-
-<p align="center">
-  🖤 <b>Code. Create. Conquer.</b>
-</p>
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antra-priyadarshini-79a5a0399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](antrapriyadarshini9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Aarshini09/Aarshini09)
