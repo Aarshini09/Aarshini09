@@ -43,9 +43,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarshini09&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Antra's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aarshini09&show_icons=true&theme=neon&count_private=true&hide_border=false" alt="Antra's GitHub Stats" width="400" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshini09&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aarshini09&layout=compact&theme=neon&hide_border=false" alt="Top Languages" width="300" />
 </p>
 
 ---
@@ -62,7 +62,9 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+<br />
 
+> **"Transforming complex problems into elegant, scalable solutions—one line of code at a time."** 🚀
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=footer" />
